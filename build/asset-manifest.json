@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10efb6ae.css",
+    "main.js": "/static/js/main.392a4f30.js",
+    "static/js/787.4c026eef.chunk.js": "/static/js/787.4c026eef.chunk.js",
+    "static/media/spinner.gif": "/static/media/spinner.5f608e4c865ad7c7eaf2.gif",
+    "static/media/PushpaNews.png": "/static/media/PushpaNews.ce2b6e5080cd630801c9.png",
+    "index.html": "/index.html",
+    "main.10efb6ae.css.map": "/static/css/main.10efb6ae.css.map",
+    "main.392a4f30.js.map": "/static/js/main.392a4f30.js.map",
+    "787.4c026eef.chunk.js.map": "/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10efb6ae.css",
+    "static/js/main.392a4f30.js"
+  ]
+}
